@@ -1,0 +1,14 @@
+name: "suditi"
+navbar:
+  title: "sublimesuditi"
+  left:
+    - text: "Home"
+      href: index.html
+  right: 
+    - icon: fa-envelope fa-lg
+      href: mailto:<cats@catemail.com>
+    - icon: fa-github fa-lg
+      href: http://github.com/sdtladdha/
+output:
+  html_document:
+    theme: sandstone
